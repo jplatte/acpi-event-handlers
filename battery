@@ -1,0 +1,2 @@
+event=battery
+action=pkill -SIGRTMIN+2 i3blocks
